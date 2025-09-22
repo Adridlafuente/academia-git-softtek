@@ -1,7 +1,4 @@
 Hola desde academia Softtek
 Nueva línea
-<<<<<<< HEAD
 linea desde el original
-=======
 Linea desde el clon
->>>>>>> refs/remotes/origin/master
